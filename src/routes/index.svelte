@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="card">
+    <div class="card-header">
+        <h2 class="card-title">Cookie Based Authentication</h2>
+    </div>
+</div>
